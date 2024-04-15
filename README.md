@@ -1,27 +1,28 @@
 # :checkered_flag: NOME DO PROJETO
 
-Breve descrição do que o seu projeto faz.
+Uma coleção de fontes textuais para os usuários utilizar
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+499263, Hyago de Sousa Correia
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
-
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
+Usuário não registrado
+Usuário registrado
+Administrador
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Liste as principais entidades do sistema.
+Usuário
+Fonte
+Comentário
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
-
-
-----
+Um usuário não registrado pode olhar todas as fontes de qualquer categoria do site.
+Usuário registrado pode baixar fontes ou colocar fontes que sejam aprovadas, além de poder comentar em outras fontes.
+O adminstrador da loja pode: adicionar, remover e editar as fontes que são colocadas no site.
 
 :warning::warning::warning: As informações a seguir devem ser enviadas juntamente com a versão final do projeto. :warning::warning::warning:
 
