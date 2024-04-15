@@ -1,4 +1,4 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: Fonte Artes
 
 Uma coleção de fontes textuais para os usuários utilizar
 
